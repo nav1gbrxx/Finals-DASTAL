@@ -1,4 +1,4 @@
-# Computer Store Helpdesk and Inventory Presentation Outline
+# Nav1Gate and Inventory Presentation Outline
 
 ## 1. Title and group
 

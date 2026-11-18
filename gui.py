@@ -9,7 +9,7 @@ from algorithms import merge_sort
 from app import InventorySystem
 
 
-APP_NAME = "Computer Store Helpdesk"
+APP_NAME = "Nav1Gate"
 SECTORS = (
     "Assembly",
     "Retail",

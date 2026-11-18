@@ -1,4 +1,4 @@
-# Computer Store Helpdesk
+# Nav1Gate
 
 A desktop application for a computer-parts store. It routes customers to service
 sectors, tracks staff and service progress, and manages the retail parts inventory.

@@ -87,7 +87,7 @@ def print_products(products):
 
 
 def menu():
-    print("\n=== COMPUTER STORE HELPDESK ===")
+    print("\n=== NAV1GATE ===")
     print("1. Join customer waitlist")
     print("2. View waiting customers")
     print("3. Assign next customer to a sector")
