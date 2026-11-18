@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+inventory.json
+audit.log
+services.json
+build/
+dist/
+*.spec
